@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6WVoa2fachsbLKO80Wj48/uzPMlVNQuCOD7dOh4VJdQx6TZ8wAWoqdJeTAWiolRmgOWUOGihcfgfUMTK5NF5JA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rmkar\\source\\repos\\AKSWebApp\\AKSWebApp\\AKSWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rmkar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
